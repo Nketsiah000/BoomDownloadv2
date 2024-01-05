@@ -1,0 +1,55 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>Icons/aaaaa.svg</file>
+        <file>Icons/aaaaa_small.svg</file>
+        <file>Icons/About.svg</file>
+        <file>Icons/Bookmark.svg</file>
+        <file>Icons/camera-movie.svg</file>
+        <file>Icons/Cancel.svg</file>
+        <file>Icons/circle-xmark.svg</file>
+        <file>Icons/Close.svg</file>
+        <file>Icons/Delete.svg</file>
+        <file>Icons/Document.svg</file>
+        <file>Icons/Done.svg</file>
+        <file>Icons/Download from the Cloud.svg</file>
+        <file>Icons/drum.svg</file>
+        <file>Icons/Edit.svg</file>
+        <file>Icons/External Link.svg</file>
+        <file>Icons/FaceTime.svg</file>
+        <file>Icons/film.svg</file>
+        <file>Icons/For You.svg</file>
+        <file>Icons/forward.svg</file>
+        <file>Icons/Home.svg</file>
+        <file>Icons/Idea.svg</file>
+        <file>Icons/IGTV.ico</file>
+        <file>Icons/Key.svg</file>
+        <file>Icons/Lock.svg</file>
+        <file>Icons/Menu.svg</file>
+        <file>Icons/Music Single small.svg</file>
+        <file>Icons/News.svg</file>
+        <file>Icons/No Synchronize.svg</file>
+        <file>Icons/Ok.svg</file>
+        <file>Icons/Open Lock.svg</file>
+        <file>Icons/play-alt (1).svg</file>
+        <file>Icons/play-alt.svg</file>
+        <file>Icons/play-pause.svg</file>
+        <file>Icons/Plus.svg</file>
+        <file>Icons/Restart.svg</file>
+        <file>Icons/rewind.svg</file>
+        <file>Icons/screen.svg</file>
+        <file>Icons/Search.svg</file>
+        <file>Icons/Settings.svg</file>
+        <file>Icons/Share.svg</file>
+        <file>Icons/Speech Bubble.svg</file>
+        <file>Icons/stop.svg</file>
+        <file>Icons/Synchronize.svg</file>
+        <file>Icons/Tinder.svg</file>
+        <file>Icons/TinderOutlined.svg</file>
+        <file>Icons/Unavailable.svg</file>
+        <file>Icons/video-player.png</file>
+        <file>Icons/waveform.svg</file>
+        <file>Icons/Youtube Tv.svg</file>
+        <file>Icons/Music.svg</file>
+        <file>Icons/download.svg</file>
+    </qresource>
+</RCC>

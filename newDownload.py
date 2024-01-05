@@ -10,6 +10,7 @@ class newDownload(QtWidgets.QWidget):
     progress_signal = QtCore.Signal()
 
     def __init__(self, parent, link: str, size: int):
+        
         super().__init__()
         self.size = size
         self.p = parent
